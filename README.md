@@ -2,6 +2,8 @@
 
 This browser extension measures the time between your mouse click and when the webpage visually updates (detects a DOM change).
 
+[Demo Video](https://share.cleanshot.com/6sGb78F8)
+
 ## Install from .zip
 
 1.  **Download:** Get the `.zip` file from the [Releases](https://github.com/danteissaias/frames-to-nav/releases) page.
