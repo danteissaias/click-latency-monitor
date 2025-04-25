@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Frames to Nav Monitor",
+  "version": "1.0",
+  "description": "Measures time and frames from mouse click to DOM change.",
+  "permissions": ["scripting", "activeTab", "tabs"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Toggle Frames Monitor (Inactive)"
+  }
+}
